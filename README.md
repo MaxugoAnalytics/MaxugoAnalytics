@@ -1,11 +1,11 @@
--# Maxwell Adigwe - Data Analyst Portfolio
 
-## 🌟 About Me
-Hello! I'm **Maxwell Adigwe**, a seasoned Data Scientist and Data Analyst. I am passionate about leveraging data to uncover actionable insights, solve complex problems, and drive business success. This repository showcases my work in **Data Analytics**, **Data Science**, and **E-commerce analytics**. Through these projects, I aim to share my expertise, track my growth, and demonstrate my proficiency across various tools and technologies.
+
+## **About Me**
+I'm **Maxwell Adigwe**, a seasoned Data Scientist and Data Analyst. I am passionate about leveraging data to uncover actionable insights, solve complex problems, and drive business success. This repository showcases my work in **Data Analytics**, **Data Science**, and **E-commerce analytics**. Through these projects, I aim to share my expertise, track my growth, and demonstrate my proficiency across various tools and technologies.
 
 ---
 
-## 📚 Table of Contents
+## **Table of Contents**
 - [About Me](#-about-me)
 - [Portfolio Projects](#-portfolio-projects)
   - [Python Projects](#python-projects)

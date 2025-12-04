@@ -5,8 +5,6 @@ I'm **Maxwell Adigwe**, a seasoned Data Scientist and Data Analyst. I am passion
 - **B.Sc. in Computer Science**
 - **M.Sc. in Data Science (In Progress)**
 
----
-
 ## Certificates
 - Google Data Analytics Professional Certificate
 - Microsoft Power BI Data Analyst Associate
